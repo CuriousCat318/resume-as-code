@@ -1,0 +1,128 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 7647 >>
+stream
+BT /F2 18 Tf 1 0 0 1 262.80 750.00 Tm (Sharon Leo) Tj ET
+BT /F2 11 Tf 1 0 0 1 232.08 735.00 Tm (Full Stack Software Engineer) Tj ET
+BT /F1 8.5 Tf 1 0 0 1 93.84 722.00 Tm (Seattle, WA | +1 \(206\) 434-8577 | leosharon181@gmail.com | https://www.linkedin.com/in/sharon-phylis-leo) Tj ET
+BT /F2 9.5 Tf 1 0 0 1 46.00 701.00 Tm (SUMMARY) Tj ET
+0.50 w 46.00 697.00 m 566.00 697.00 l S
+BT /F1 8.6 Tf 1 0 0 1 46.00 685.00 Tm (Full stack engineer with 4+ years building backend systems, REST APIs, and data infrastructure on AWS, primarily in) Tj ET
+BT /F1 8.6 Tf 1 0 0 1 46.00 675.20 Tm (Java/Spring Boot, with frontend experience in React and TypeScript. Has worked across the stack from API design and database) Tj ET
+BT /F1 8.6 Tf 1 0 0 1 46.00 665.40 Tm (optimization to event-driven pipelines, service decomposition, and UI development. Comfortable owning features end-to-end and) Tj ET
+BT /F1 8.6 Tf 1 0 0 1 46.00 655.60 Tm (has spent time on both greenfield systems and large legacy codebases.) Tj ET
+BT /F2 9.5 Tf 1 0 0 1 46.00 633.80 Tm (SKILLS) Tj ET
+0.50 w 46.00 629.80 m 566.00 629.80 l S
+BT /F1 8.3 Tf 1 0 0 1 46.00 617.80 Tm (Languages: Java, Python, TypeScript, JavaScript, C#, C/C++, SQL, Bash) Tj ET
+BT /F1 8.3 Tf 1 0 0 1 46.00 608.30 Tm (Frontend: React, TypeScript, REST API integration, Component design) Tj ET
+BT /F1 8.3 Tf 1 0 0 1 46.00 598.80 Tm (AWS Services: S3, EC2, Lambda, ECS, SQS, SNS, Kinesis, DynamoDB, Glue, SageMaker, Bedrock, CloudWatch) Tj ET
+BT /F1 8.3 Tf 1 0 0 1 46.00 589.30 Tm (Databases: DynamoDB, PostgreSQL, SQL Server, MongoDB, Redis, Aurora RDS) Tj ET
+BT /F1 8.3 Tf 1 0 0 1 46.00 579.80 Tm (DevOps and Infra: Docker, Kubernetes \(EKS\), Terraform, Jenkins, CI/CD, Git, Linux) Tj ET
+BT /F1 8.3 Tf 1 0 0 1 46.00 570.30 Tm (Concepts: Microservices, Distributed Systems, REST/GraphQL APIs, Event-Driven Architecture, CQRS, Event Sourcing, Design Patterns,) Tj ET
+BT /F1 8.3 Tf 1 0 0 1 46.00 560.80 Tm (SOLID, Agile/Scrum) Tj ET
+BT /F2 9.5 Tf 1 0 0 1 46.00 539.30 Tm (EDUCATION) Tj ET
+0.50 w 46.00 535.30 m 566.00 535.30 l S
+BT /F2 9.5 Tf 1 0 0 1 46.00 523.30 Tm (Seattle University | WA) Tj ET
+BT /F1 9.0 Tf 1 0 0 1 531.44 523.30 Tm (Mar 2024) Tj ET
+BT /F1 9.0 Tf 1 0 0 1 46.00 512.30 Tm (Master of Science in Computer Science) Tj ET
+BT /F1 8.4 Tf 1 0 0 1 54.00 503.30 Tm (- Coursework: Advanced Software Engineering, Cloud Computing, Distributed Systems, Software Design and Architecture, Software) Tj ET
+BT /F1 8.4 Tf 1 0 0 1 54.00 493.60 Tm (  Testing) Tj ET
+BT /F1 8.4 Tf 1 0 0 1 54.00 483.90 Tm (- Teaching Assistant: Cloud Computing, Security in Computing, Software as a Service, Programming in C++ \(Jan 2023 - Mar 2024\)) Tj ET
+BT /F2 9.5 Tf 1 0 0 1 46.00 471.20 Tm (Visvesvaraya Technological University | India) Tj ET
+BT /F1 9.0 Tf 1 0 0 1 531.44 471.20 Tm (Jul 2019) Tj ET
+BT /F1 9.0 Tf 1 0 0 1 46.00 460.20 Tm (Bachelor of Engineering in Computer Science) Tj ET
+BT /F2 9.5 Tf 1 0 0 1 46.00 436.20 Tm (EXPERIENCE) Tj ET
+0.50 w 46.00 432.20 m 566.00 432.20 l S
+BT /F2 9.5 Tf 1 0 0 1 46.00 420.20 Tm (E-claim.com, LLC | US \(Remote\)) Tj ET
+BT /F1 9.0 Tf 1 0 0 1 488.24 420.20 Tm (Aug 2024 - Present) Tj ET
+BT /F1 9.0 Tf 1 0 0 1 46.00 409.20 Tm (Full Stack Software Engineer) Tj ET
+BT /F1 8.4 Tf 1 0 0 1 54.00 400.20 Tm (- Owned backend services for ClickClaims, a multi-tenant insurance platform handling 50K+ daily claims in Java/Spring Boot.) Tj ET
+BT /F1 8.4 Tf 1 0 0 1 54.00 390.50 Tm (  Rebuilt core workflow APIs with idempotency guarantees and transactional consistency across intake, validation, reserves, and) Tj ET
+BT /F1 8.4 Tf 1 0 0 1 54.00 380.80 Tm (  payments, reducing error rates on duplicate submissions by over 90%.) Tj ET
+BT /F1 8.4 Tf 1 0 0 1 54.00 371.10 Tm (- Built and maintained React/TypeScript UI features for the customer-facing claims management interface serving tens of) Tj ET
+BT /F1 8.4 Tf 1 0 0 1 54.00 361.40 Tm (  thousands of users, working closely with backend APIs to deliver end-to-end functionality across 5+ core workflows.) Tj ET
+BT /F1 8.4 Tf 1 0 0 1 54.00 351.70 Tm (- Optimized SQL Server query performance by reworking execution plans, restructuring joins, and adding composite indexes,) Tj ET
+BT /F1 8.4 Tf 1 0 0 1 54.00 342.00 Tm (  cutting average query execution time by over 50% during peak load.) Tj ET
+BT /F1 8.4 Tf 1 0 0 1 54.00 332.30 Tm (- Designed event-driven async processing for long-running jobs including payment reconciliation and third-party sync using) Tj ET
+BT /F1 8.4 Tf 1 0 0 1 54.00 322.60 Tm (  SQS-backed workers and Kinesis streams, reducing job failure rate by about 30% and enabling independent scaling.) Tj ET
+BT /F1 8.4 Tf 1 0 0 1 54.00 312.90 Tm (- Decomposed a legacy monolith into smaller services using clean architecture and SOLID principles, cutting deployment cycle) Tj ET
+BT /F1 8.4 Tf 1 0 0 1 54.00 303.20 Tm (  time by 35%. Handled OAuth2/JWT integrations for two external partners and set up CloudWatch logging for audit and) Tj ET
+BT /F1 8.4 Tf 1 0 0 1 54.00 293.50 Tm (  operational visibility.) Tj ET
+BT /F2 9.5 Tf 1 0 0 1 46.00 278.80 Tm (Nutanix | India) Tj ET
+BT /F1 9.0 Tf 1 0 0 1 483.92 278.80 Tm (Dec 2020 - Aug 2022) Tj ET
+BT /F1 9.0 Tf 1 0 0 1 46.00 267.80 Tm (Member of Technical Staff II) Tj ET
+BT /F1 8.4 Tf 1 0 0 1 54.00 258.80 Tm (- Worked on Nutanix Objects, an S3-compatible distributed object storage product supporting clusters of up to 60 nodes,) Tj ET
+BT /F1 8.4 Tf 1 0 0 1 54.00 249.10 Tm (  contributing to control plane features including object lifecycle management and metadata consistency.) Tj ET
+BT /F1 8.4 Tf 1 0 0 1 54.00 239.40 Tm (- Implemented S3 API operations including GET, PUT, DELETE, HEAD, and multipart upload across the distributed storage layer,) Tj ET
+BT /F1 8.4 Tf 1 0 0 1 54.00 229.70 Tm (  including tests to validate correctness across failure scenarios.) Tj ET
+BT /F1 8.4 Tf 1 0 0 1 54.00 220.00 Tm (- Built multi-threaded Python services to simulate and benchmark backup and recovery workflows across AWS, Azure, and GCP.) Tj ET
+BT /F1 8.4 Tf 1 0 0 1 54.00 210.30 Tm (  Improved pipeline throughput by 40% through parallelization and backpressure tuning, cutting benchmark runtime from about 12) Tj ET
+BT /F1 8.4 Tf 1 0 0 1 54.00 200.60 Tm (  hours to under 3.) Tj ET
+BT /F1 8.4 Tf 1 0 0 1 54.00 190.90 Tm (- Tracked down a production instability in Logbay, the cluster log-collection service, that only surfaced at 25-60 node scale.) Tj ET
+BT /F1 8.4 Tf 1 0 0 1 54.00 181.20 Tm (  Root cause was Linux cgroup memory pressure. Fix unblocked onboarding for 3+ enterprise customers.) Tj ET
+BT /F1 8.4 Tf 1 0 0 1 54.00 171.50 Tm (- Participated in design reviews and mentored 2 junior engineers on distributed systems concepts and debugging practices.) Tj ET
+BT /F2 9.5 Tf 1 0 0 1 46.00 156.80 Tm (HashedIn by Deloitte | India) Tj ET
+BT /F1 9.0 Tf 1 0 0 1 483.92 156.80 Tm (Aug 2019 - Dec 2020) Tj ET
+BT /F1 9.0 Tf 1 0 0 1 46.00 145.80 Tm (Software Engineer) Tj ET
+BT /F1 8.4 Tf 1 0 0 1 54.00 136.80 Tm (- Built CRM features for SalesPhone, an iOS app serving 10K+ active users, including contact management, calendar events, and) Tj ET
+BT /F1 8.4 Tf 1 0 0 1 54.00 127.10 Tm (  notes.) Tj ET
+BT /F1 8.4 Tf 1 0 0 1 54.00 117.40 Tm (- Developed React-based frontend features for internal web tools, integrating with REST APIs and handling data display across) Tj ET
+BT /F1 8.4 Tf 1 0 0 1 54.00 107.70 Tm (  multiple client views.) Tj ET
+BT /F1 8.4 Tf 1 0 0 1 54.00 98.00 Tm (- Integrated REST APIs with OAuth2 for Salesforce, Microsoft Dynamics, LinkedIn, and Outlook.) Tj ET
+BT /F2 9.5 Tf 1 0 0 1 46.00 71.30 Tm (KEY PROJECTS) Tj ET
+0.50 w 46.00 67.30 m 566.00 67.30 l S
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 1616 >>
+stream
+BT /F2 9.5 Tf 1 0 0 1 46.00 750.00 Tm (Personal Finance Dashboard) Tj ET
+BT /F1 8.4 Tf 1 0 0 1 54.00 739.00 Tm (- Built a full stack app with a Java/Spring Boot backend and React frontend that parses exported bank CSV files, categorizes) Tj ET
+BT /F1 8.4 Tf 1 0 0 1 54.00 729.30 Tm (  transactions using keyword rules, and renders a monthly spending breakdown. Data stored in PostgreSQL; containerized with) Tj ET
+BT /F1 8.4 Tf 1 0 0 1 54.00 719.60 Tm (  Docker for local deployment.) Tj ET
+BT /F2 9.5 Tf 1 0 0 1 46.00 706.90 Tm (Job Application Tracker API) Tj ET
+BT /F1 8.4 Tf 1 0 0 1 54.00 695.90 Tm (- Built a REST API in Java/Spring Boot to track job applications, statuses, and follow-up reminders, backed by PostgreSQL.) Tj ET
+BT /F1 8.4 Tf 1 0 0 1 54.00 686.20 Tm (  Includes basic auth, pagination, and a simple notification scheduler using Spring's task execution framework.) Tj ET
+BT /F2 9.5 Tf 1 0 0 1 46.00 673.50 Tm (CLI Tool for SQL Query Analysis) Tj ET
+BT /F1 8.4 Tf 1 0 0 1 54.00 662.50 Tm (- Built a Python command-line tool that connects to a local PostgreSQL database, runs EXPLAIN ANALYZE on a given query, and) Tj ET
+BT /F1 8.4 Tf 1 0 0 1 54.00 652.80 Tm (  surfaces slow operations and missing indexes in a readable format. Used personally during MS coursework and at work for quick) Tj ET
+BT /F1 8.4 Tf 1 0 0 1 54.00 643.10 Tm (  query debugging.) Tj ET
+BT /F2 9.5 Tf 1 0 0 1 46.00 618.40 Tm (CERTIFICATIONS AND CREDENTIALS) Tj ET
+0.50 w 46.00 614.40 m 566.00 614.40 l S
+BT /F1 8.5 Tf 1 0 0 1 46.00 602.40 Tm (VMware Virtualization Fundamentals | Seattle University Dean's Honor Roll) Tj ET
+endstream
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000121 00000 n 
+0000000191 00000 n 
+0000000266 00000 n 
+0000000402 00000 n 
+0000008100 00000 n 
+0000008236 00000 n 
+trailer
+<< /Size 9 /Root 1 0 R >>
+startxref
+9903
+%%EOF

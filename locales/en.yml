@@ -1,0 +1,191 @@
+profile:
+  name: Sharon Leo
+  title: Full Stack Software Engineer
+  location: Seattle, WA
+  phone: "+1 (206) 434-8577"
+  email: leosharon181@gmail.com
+  linkedin: https://www.linkedin.com/in/sharon-phylis-leo
+  summary: >-
+    Full stack engineer with 4+ years building backend systems, REST APIs, and
+    data infrastructure on AWS, primarily in Java/Spring Boot, with frontend
+    experience in React and TypeScript. Has worked across the stack from API
+    design and database optimization to event-driven pipelines, service
+    decomposition, and UI development. Comfortable owning features end-to-end
+    and has spent time on both greenfield systems and large legacy codebases.
+
+skills:
+  languages:
+    - Java
+    - Python
+    - TypeScript
+    - JavaScript
+    - C#
+    - C/C++
+    - SQL
+    - Bash
+  frontend:
+    - React
+    - TypeScript
+    - REST API integration
+    - Component design
+  aws_services:
+    - S3
+    - EC2
+    - Lambda
+    - ECS
+    - SQS
+    - SNS
+    - Kinesis
+    - DynamoDB
+    - Glue
+    - SageMaker
+    - Bedrock
+    - CloudWatch
+  databases:
+    - DynamoDB
+    - PostgreSQL
+    - SQL Server
+    - MongoDB
+    - Redis
+    - Aurora RDS
+  devops_and_infra:
+    - Docker
+    - Kubernetes (EKS)
+    - Terraform
+    - Jenkins
+    - CI/CD
+    - Git
+    - Linux
+  concepts:
+    - Microservices
+    - Distributed Systems
+    - REST/GraphQL APIs
+    - Event-Driven Architecture
+    - CQRS
+    - Event Sourcing
+    - Design Patterns
+    - SOLID
+    - Agile/Scrum
+
+education:
+  - institution: Seattle University
+    location: WA
+    degree: Master of Science in Computer Science
+    graduation: Mar 2024
+    coursework:
+      - Advanced Software Engineering
+      - Cloud Computing
+      - Distributed Systems
+      - Software Design and Architecture
+      - Software Testing
+    teaching_assistant_roles:
+      - Cloud Computing
+      - Security in Computing
+      - Software as a Service
+      - Programming in C++
+    teaching_assistant_dates: Jan 2023 - Mar 2024
+  - institution: Visvesvaraya Technological University
+    location: India
+    degree: Bachelor of Engineering in Computer Science
+    graduation: Jul 2019
+
+experience:
+  - company: E-claim.com, LLC
+    location: US (Remote)
+    title: Full Stack Software Engineer
+    dates: Aug 2024 - Present
+    bullets:
+      - >-
+        Owned backend services for ClickClaims, a multi-tenant insurance
+        platform handling 50K+ daily claims in Java/Spring Boot. Rebuilt core
+        workflow APIs with idempotency guarantees and transactional consistency
+        across intake, validation, reserves, and payments, reducing error rates
+        on duplicate submissions by over 90%.
+      - >-
+        Built and maintained React/TypeScript UI features for the
+        customer-facing claims management interface serving tens of thousands of
+        users, working closely with backend APIs to deliver end-to-end
+        functionality across 5+ core workflows.
+      - >-
+        Optimized SQL Server query performance by reworking execution plans,
+        restructuring joins, and adding composite indexes, cutting average
+        query execution time by over 50% during peak load.
+      - >-
+        Designed event-driven async processing for long-running jobs including
+        payment reconciliation and third-party sync using SQS-backed workers and
+        Kinesis streams, reducing job failure rate by about 30% and enabling
+        independent scaling.
+      - >-
+        Decomposed a legacy monolith into smaller services using clean
+        architecture and SOLID principles, cutting deployment cycle time by 35%.
+        Handled OAuth2/JWT integrations for two external partners and set up
+        CloudWatch logging for audit and operational visibility.
+  - company: Nutanix
+    location: India
+    title: Member of Technical Staff II
+    dates: Dec 2020 - Aug 2022
+    bullets:
+      - >-
+        Worked on Nutanix Objects, an S3-compatible distributed object storage
+        product supporting clusters of up to 60 nodes, contributing to control
+        plane features including object lifecycle management and metadata
+        consistency.
+      - >-
+        Implemented S3 API operations including GET, PUT, DELETE, HEAD, and
+        multipart upload across the distributed storage layer, including tests
+        to validate correctness across failure scenarios.
+      - >-
+        Built multi-threaded Python services to simulate and benchmark backup
+        and recovery workflows across AWS, Azure, and GCP. Improved pipeline
+        throughput by 40% through parallelization and backpressure tuning,
+        cutting benchmark runtime from about 12 hours to under 3.
+      - >-
+        Tracked down a production instability in Logbay, the cluster
+        log-collection service, that only surfaced at 25-60 node scale. Root
+        cause was Linux cgroup memory pressure. Fix unblocked onboarding for 3+
+        enterprise customers.
+      - >-
+        Participated in design reviews and mentored 2 junior engineers on
+        distributed systems concepts and debugging practices.
+  - company: HashedIn by Deloitte
+    location: India
+    title: Software Engineer
+    dates: Aug 2019 - Dec 2020
+    bullets:
+      - >-
+        Built CRM features for SalesPhone, an iOS app serving 10K+ active
+        users, including contact management, calendar events, and notes.
+      - >-
+        Developed React-based frontend features for internal web tools,
+        integrating with REST APIs and handling data display across multiple
+        client views.
+      - >-
+        Integrated REST APIs with OAuth2 for Salesforce, Microsoft Dynamics,
+        LinkedIn, and Outlook.
+
+projects:
+  - name: Personal Finance Dashboard
+    bullets:
+      - >-
+        Built a full stack app with a Java/Spring Boot backend and React
+        frontend that parses exported bank CSV files, categorizes transactions
+        using keyword rules, and renders a monthly spending breakdown. Data
+        stored in PostgreSQL; containerized with Docker for local deployment.
+  - name: Job Application Tracker API
+    bullets:
+      - >-
+        Built a REST API in Java/Spring Boot to track job applications,
+        statuses, and follow-up reminders, backed by PostgreSQL. Includes basic
+        auth, pagination, and a simple notification scheduler using Spring's
+        task execution framework.
+  - name: CLI Tool for SQL Query Analysis
+    bullets:
+      - >-
+        Built a Python command-line tool that connects to a local PostgreSQL
+        database, runs EXPLAIN ANALYZE on a given query, and surfaces slow
+        operations and missing indexes in a readable format. Used personally
+        during MS coursework and at work for quick query debugging.
+
+certifications_and_credentials:
+  - VMware Virtualization Fundamentals
+  - Seattle University Dean's Honor Roll
