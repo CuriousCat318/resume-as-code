@@ -1,17 +1,12 @@
 profile:
   name: Sharon Leo
-  title: Full Stack Software Engineer
+  title: Software Engineer II - Java/Spring
   location: Seattle, WA
   phone: "+1 (206) 434-8577"
   email: leosharon181@gmail.com
   linkedin: https://www.linkedin.com/in/sharon-phylis-leo
   summary: >-
-    Full stack engineer with 4+ years building backend systems, REST APIs, and
-    data infrastructure on AWS, primarily in Java/Spring Boot, with frontend
-    experience in React and TypeScript. Has worked across the stack from API
-    design and database optimization to event-driven pipelines, service
-    decomposition, and UI development. Comfortable owning features end-to-end
-    and has spent time on both greenfield systems and large legacy codebases.
+    Software Engineer II with 4+ years designing backend systems, secure REST APIs, and database solutions on AWS, specializing in Java & Spring Boot, with React frontend skills. Experienced in building enterprise applications, optimizing SQL Server, modernizing legacy systems, and supporting live production environments. Agile team collaborator skilled in delivering robust software for critical business workflows.
 
 skills:
   languages:
@@ -92,15 +87,15 @@ education:
 experience:
   - company: E-claim.com, LLC
     location: US (Remote)
-    title: Full Stack Software Engineer
+    title: Software Engineer II (Java/Spring)
     dates: Aug 2024 - Present
     bullets:
       - >-
-        Owned backend services for ClickClaims, a multi-tenant insurance
-        platform handling 50K+ daily claims in Java/Spring Boot. Rebuilt core
-        workflow APIs with idempotency guarantees and transactional consistency
-        across intake, validation, reserves, and payments, reducing error rates
-        on duplicate submissions by over 90%.
+        Owned backend services for ClickClaims, a multi-tenant enterprise
+        platform handling 50K+ daily transactions in Java/Spring Boot. Rebuilt
+        core payment and validation APIs with transactional consistency and
+        idempotency guarantees, reducing error rates on duplicate submissions
+        by over 90%.
       - >-
         Built and maintained React/TypeScript UI features for the
         customer-facing claims management interface serving tens of thousands of
@@ -140,10 +135,9 @@ experience:
         throughput by 40% through parallelization and backpressure tuning,
         cutting benchmark runtime from about 12 hours to under 3.
       - >-
-        Tracked down a production instability in Logbay, the cluster
-        log-collection service, that only surfaced at 25-60 node scale. Root
-        cause was Linux cgroup memory pressure. Fix unblocked onboarding for 3+
-        enterprise customers.
+        Tracked down critical production incidents in Logbay, the cluster
+        log-collection service, resolving memory pressure issues at 60-node scale.
+        Supported live distributed systems and participated in on-call troubleshooting.
       - >-
         Participated in design reviews and mentored 2 junior engineers on
         distributed systems concepts and debugging practices.
