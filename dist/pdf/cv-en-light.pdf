@@ -15,17 +15,17 @@ endobj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
 endobj
 6 0 obj
-<< /Length 7647 >>
+<< /Length 7607 >>
 stream
 BT /F2 18 Tf 1 0 0 1 262.80 750.00 Tm (Sharon Leo) Tj ET
-BT /F2 11 Tf 1 0 0 1 232.08 735.00 Tm (Full Stack Software Engineer) Tj ET
+BT /F2 11 Tf 1 0 0 1 216.24 735.00 Tm (Software Engineer II - Java/Spring) Tj ET
 BT /F1 8.5 Tf 1 0 0 1 93.84 722.00 Tm (Seattle, WA | +1 \(206\) 434-8577 | leosharon181@gmail.com | https://www.linkedin.com/in/sharon-phylis-leo) Tj ET
 BT /F2 9.5 Tf 1 0 0 1 46.00 701.00 Tm (SUMMARY) Tj ET
 0.50 w 46.00 697.00 m 566.00 697.00 l S
-BT /F1 8.6 Tf 1 0 0 1 46.00 685.00 Tm (Full stack engineer with 4+ years building backend systems, REST APIs, and data infrastructure on AWS, primarily in) Tj ET
-BT /F1 8.6 Tf 1 0 0 1 46.00 675.20 Tm (Java/Spring Boot, with frontend experience in React and TypeScript. Has worked across the stack from API design and database) Tj ET
-BT /F1 8.6 Tf 1 0 0 1 46.00 665.40 Tm (optimization to event-driven pipelines, service decomposition, and UI development. Comfortable owning features end-to-end and) Tj ET
-BT /F1 8.6 Tf 1 0 0 1 46.00 655.60 Tm (has spent time on both greenfield systems and large legacy codebases.) Tj ET
+BT /F1 8.6 Tf 1 0 0 1 46.00 685.00 Tm (Software Engineer II with 4+ years designing backend systems, secure REST APIs, and database solutions on AWS, specializing) Tj ET
+BT /F1 8.6 Tf 1 0 0 1 46.00 675.20 Tm (in Java & Spring Boot, with React frontend skills. Experienced in building enterprise applications, optimizing SQL Server,) Tj ET
+BT /F1 8.6 Tf 1 0 0 1 46.00 665.40 Tm (modernizing legacy systems, and supporting live production environments. Agile team collaborator skilled in delivering robust) Tj ET
+BT /F1 8.6 Tf 1 0 0 1 46.00 655.60 Tm (software for critical business workflows.) Tj ET
 BT /F2 9.5 Tf 1 0 0 1 46.00 633.80 Tm (SKILLS) Tj ET
 0.50 w 46.00 629.80 m 566.00 629.80 l S
 BT /F1 8.3 Tf 1 0 0 1 46.00 617.80 Tm (Languages: Java, Python, TypeScript, JavaScript, C#, C/C++, SQL, Bash) Tj ET
@@ -50,10 +50,10 @@ BT /F2 9.5 Tf 1 0 0 1 46.00 436.20 Tm (EXPERIENCE) Tj ET
 0.50 w 46.00 432.20 m 566.00 432.20 l S
 BT /F2 9.5 Tf 1 0 0 1 46.00 420.20 Tm (E-claim.com, LLC | US \(Remote\)) Tj ET
 BT /F1 9.0 Tf 1 0 0 1 488.24 420.20 Tm (Aug 2024 - Present) Tj ET
-BT /F1 9.0 Tf 1 0 0 1 46.00 409.20 Tm (Full Stack Software Engineer) Tj ET
-BT /F1 8.4 Tf 1 0 0 1 54.00 400.20 Tm (- Owned backend services for ClickClaims, a multi-tenant insurance platform handling 50K+ daily claims in Java/Spring Boot.) Tj ET
-BT /F1 8.4 Tf 1 0 0 1 54.00 390.50 Tm (  Rebuilt core workflow APIs with idempotency guarantees and transactional consistency across intake, validation, reserves, and) Tj ET
-BT /F1 8.4 Tf 1 0 0 1 54.00 380.80 Tm (  payments, reducing error rates on duplicate submissions by over 90%.) Tj ET
+BT /F1 9.0 Tf 1 0 0 1 46.00 409.20 Tm (Software Engineer II \(Java/Spring\)) Tj ET
+BT /F1 8.4 Tf 1 0 0 1 54.00 400.20 Tm (- Owned backend services for ClickClaims, a multi-tenant enterprise platform handling 50K+ daily transactions in Java/Spring) Tj ET
+BT /F1 8.4 Tf 1 0 0 1 54.00 390.50 Tm (  Boot. Rebuilt core payment and validation APIs with transactional consistency and idempotency guarantees, reducing error) Tj ET
+BT /F1 8.4 Tf 1 0 0 1 54.00 380.80 Tm (  rates on duplicate submissions by over 90%.) Tj ET
 BT /F1 8.4 Tf 1 0 0 1 54.00 371.10 Tm (- Built and maintained React/TypeScript UI features for the customer-facing claims management interface serving tens of) Tj ET
 BT /F1 8.4 Tf 1 0 0 1 54.00 361.40 Tm (  thousands of users, working closely with backend APIs to deliver end-to-end functionality across 5+ core workflows.) Tj ET
 BT /F1 8.4 Tf 1 0 0 1 54.00 351.70 Tm (- Optimized SQL Server query performance by reworking execution plans, restructuring joins, and adding composite indexes,) Tj ET
@@ -73,8 +73,8 @@ BT /F1 8.4 Tf 1 0 0 1 54.00 229.70 Tm (  including tests to validate correctness
 BT /F1 8.4 Tf 1 0 0 1 54.00 220.00 Tm (- Built multi-threaded Python services to simulate and benchmark backup and recovery workflows across AWS, Azure, and GCP.) Tj ET
 BT /F1 8.4 Tf 1 0 0 1 54.00 210.30 Tm (  Improved pipeline throughput by 40% through parallelization and backpressure tuning, cutting benchmark runtime from about 12) Tj ET
 BT /F1 8.4 Tf 1 0 0 1 54.00 200.60 Tm (  hours to under 3.) Tj ET
-BT /F1 8.4 Tf 1 0 0 1 54.00 190.90 Tm (- Tracked down a production instability in Logbay, the cluster log-collection service, that only surfaced at 25-60 node scale.) Tj ET
-BT /F1 8.4 Tf 1 0 0 1 54.00 181.20 Tm (  Root cause was Linux cgroup memory pressure. Fix unblocked onboarding for 3+ enterprise customers.) Tj ET
+BT /F1 8.4 Tf 1 0 0 1 54.00 190.90 Tm (- Tracked down critical production incidents in Logbay, the cluster log-collection service, resolving memory pressure issues at) Tj ET
+BT /F1 8.4 Tf 1 0 0 1 54.00 181.20 Tm (  60-node scale. Supported live distributed systems and participated in on-call troubleshooting.) Tj ET
 BT /F1 8.4 Tf 1 0 0 1 54.00 171.50 Tm (- Participated in design reviews and mentored 2 junior engineers on distributed systems concepts and debugging practices.) Tj ET
 BT /F2 9.5 Tf 1 0 0 1 46.00 156.80 Tm (HashedIn by Deloitte | India) Tj ET
 BT /F1 9.0 Tf 1 0 0 1 483.92 156.80 Tm (Aug 2019 - Dec 2020) Tj ET
@@ -119,10 +119,10 @@ xref
 0000000191 00000 n 
 0000000266 00000 n 
 0000000402 00000 n 
-0000008100 00000 n 
-0000008236 00000 n 
+0000008060 00000 n 
+0000008196 00000 n 
 trailer
 << /Size 9 /Root 1 0 R >>
 startxref
-9903
+9863
 %%EOF
